@@ -1,7 +1,7 @@
 .. note:: This documentation is under development and pertains to the DGT version of Mattagami. 
           Please visit the dgt website <http://dgt.world/> for more information.
 
-DGT Mattagami - Distribured Networking Platform
+DGT Matagami - Distribured Networking Platform
 ================================================
 
 .. image::  ../../images/DGT_LOGO_Color.png
@@ -11,8 +11,7 @@ DGT Mattagami - Distribured Networking Platform
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Enterprise grade permissioned distributed ledger platform that offers
-modularity and versatility for a broad set of industry use cases.
+
 .. toctree::
    :maxdepth: 1
 
