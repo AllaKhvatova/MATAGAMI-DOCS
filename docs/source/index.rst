@@ -11,6 +11,8 @@ DGT Mattagami - Distribured Networking Platform
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+Enterprise grade permissioned distributed ledger platform that offers
+modularity and versatility for a broad set of industry use cases.
 .. toctree::
    :maxdepth: 1
 
