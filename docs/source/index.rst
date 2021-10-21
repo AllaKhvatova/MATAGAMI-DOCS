@@ -11,22 +11,25 @@ DGT Mattagami - Distribured Networking Platform
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Content
---------
-
 .. toctree::
-        :maxdepth: 1
+   :maxdepth: 1
 
-   introduction
+   whatis
    whatsnew
-   releasenotes
-   keyconcepts
+   key_concepts
+   getting_started
+   developapps/developing_applications
+   tutorials
+   deployment_guide_overview
+   ops_guide
+   upgrade
+   command_ref
    architecture
-   adminguide
-   appdevelopment
-   tokenization
+   Fabric-FAQ
+   CONTRIBUTING
    glossary
-   community
+   releases
+   questions
    status
 
 .. note:: This project is under active development.
