@@ -33,4 +33,3 @@ how to :ref:`installation` the project.
    questions
    status
 
-.. note:: This project is under active development.
