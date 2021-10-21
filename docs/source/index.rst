@@ -1,22 +1,32 @@
-Welcome to Lumache's documentation!
-===================================
+.. note:: This documentation is under development and pertains to the DGT version of Mattagami. 
+          Please visit the dgt website <http://dgt.world/> for more information.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+DGT Mattagami - Distribured Networking Platform
+================================================
+
+.. image::  ../../images/DGT_LOGO_Color.png
+
+**DGT** is a platform offering distributed commodity support and a trusted ecosystem implementation. The current version of Mattagami not only supports dynamic topology based on F-BFT consensus, but includes an advanced dynamic topology and Garanaska tokenization system
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
-
-Contents
+Content
 --------
 
 .. toctree::
+        :maxdepth: 1
 
-   usage
-   api
+   introduction
+   whatsnew
+   releasenotes
+   keyconcepts
+   architecture
+   adminguide
+   appdevelopment
+   tokenization
+   glossary
+   community
+   status
+
+.. note:: This project is under active development.
