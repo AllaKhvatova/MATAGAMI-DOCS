@@ -15,15 +15,21 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   introduction
+   whatis
    whatsnew
-   releasenotes
-   keyconcepts
+   key_concepts
+   getting_started
+   developapps/developing_applications
+   tutorials
+   deployment_guide_overview
+   ops_guide
+   upgrade
+   command_ref
    architecture
-   adminguide
-   appdevelopment
-   tokenization
+   Fabric-FAQ
+   CONTRIBUTING
    glossary
-   community
+   releases
+   questions
    status
 
