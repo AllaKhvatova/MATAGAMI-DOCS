@@ -1,7 +1,7 @@
 .. note:: This documentation is under development and pertains to the DGT version of Matagami. 
           Please visit the dgt website <http://dgt.world/> for more information.
 
-DGT Matagami - Distribured Networking Platform
+DG Matagami - Distribured Networking Platform
 ================================================
 
 .. image::  ../../images/DGT_LOGO_Color.png
