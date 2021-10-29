@@ -1,7 +1,7 @@
 .. note:: This documentation is under development and pertains to the DGT version of Matagami. 
           Please visit the dgt website <http://dgt.world/> for more information.
 
-DG Matagami - Distribured Networking Platform
+DGT Matagami - Distribured Networking Platform
 ================================================
 
 .. image::  ../../images/DGT_LOGO_Color.png
@@ -15,27 +15,21 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   whatis
+   introduction
    whatsnew
-   key_concepts
-   getting_started
-   developapps/developing_applications
-   tutorials
-   deployment_guide_overview
-   ops_guide
-   upgrade
-   command_ref
+   releasenotes
+   keyconcepts
    architecture
-   Fabric-FAQ
-   CONTRIBUTING
+   adminguide
+   appdevelopment
+   tokenization
    glossary
-   releases
-   questions
+   community
    status
 
 .. note:: If you have questions not addressed by this documentation, or run into
-          issues with any of the tutorials, please visit the :doc:`questions`
+          issues with any of the tutorials, please visit the :doc:`usage`
           page for some tips on where to find additional help.
 
-.. Licensed under Creative Commons Attribution 4.0 International License
+
    https://creativecommons.org/licenses/by/4.0/
