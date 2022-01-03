@@ -14,7 +14,6 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :maxdepth: 1
-
    introduction
    whatsnew
    releasenotes
